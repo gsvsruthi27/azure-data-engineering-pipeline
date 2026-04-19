@@ -104,7 +104,7 @@ The final datasets were stored in the **gold container**, making them suitable f
 
 This dashboard demonstrates the visualization layer of the pipeline using sample data.
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
 
 ## Technologies Used
 
