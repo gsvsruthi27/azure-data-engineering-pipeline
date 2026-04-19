@@ -102,7 +102,14 @@ The final datasets were stored in the **gold container**, making them suitable f
 
 ## 📊 Dashboard
 
-This dashboard demonstrates the visualization layer of the pipeline using sample data.
+The dashboard below represents the final visualization layer of the data pipeline, built using Power BI.
+
+It provides insights such as:
+- City-wise vehicle theft distribution  
+- Monthly theft trends  
+- Vehicle type analysis  
+
+The data displayed is derived from the processed Gold layer, making it analytics-ready for reporting and decision-making.
 
 ![Dashboard](dashboard/Dashboard.png)
 
