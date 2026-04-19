@@ -100,10 +100,11 @@ The final datasets were stored in the **gold container**, making them suitable f
 
 ### 7. Visualization with Power BI
 
-The gold-layer data was consumed in **Power BI** to build interactive dashboards and reports.  
-<img width="1352" height="779" alt="image" src="https://github.com/user-attachments/assets/dee88ef5-c307-4b5e-8b97-2003aceacf58" />
+## 📊 Dashboard
 
----
+This dashboard demonstrates the visualization layer of the pipeline using sample data.
+
+![Dashboard](dashboard/dashboard.png)
 
 ## Technologies Used
 
